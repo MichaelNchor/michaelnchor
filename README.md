@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Tailwind" width="30px" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" />
 
-<img align="left" alt="Dotnet" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/free-dotnet-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-10-pack-icons-283005.png" />
+<img align="left" alt="Dotnet" width="30px" src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" />
 
 <img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 
