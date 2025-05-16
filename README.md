@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="CSS" width="30px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
 
+<img align="left" alt="Tailwind" width="30px" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" />
+
+<img align="left" alt="Dotnet" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/free-dotnet-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-10-pack-icons-283005.png" />
+
 <img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
