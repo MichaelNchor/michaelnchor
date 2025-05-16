@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" />
 
-<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />]
+<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
 
 <img align="left" alt="CSS" width="30px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
 
