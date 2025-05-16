@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael 👋
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODIwamoxcWE2MjA5OHA3ZjA1ODE0Nnp2MW5kZHU5cTFodWdyZnBqaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e476n2pcqctseid2eu2hvlmh090a6flnktkjhilyz69&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500" height="320" />
 
 
 **MichaelNchor/michaelnchor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
