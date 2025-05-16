@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there, <a href="https://www.linkedin.com/in/nchormichael/">Michael</a> here 👋</h1>
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" width="480" height="260px" />
 
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/nchormichael" rel="nofollow">LinkedIn</a> - 
@@ -9,6 +8,8 @@
 </p>
 
 <br />
+
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" width="480" height="260px" />
 
 - 🧑‍💻 You can find my projects here [portfolio]
 - 🔭 I’m currently working on projects at Hubtel.com
