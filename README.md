@@ -52,8 +52,6 @@
 
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 
-<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/?size=100&id=10250&format=png&color=000000" />
-
 <img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />
 
 <img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" />
