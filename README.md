@@ -60,6 +60,24 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
 
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Michael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=michaelnchor&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Michael's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelnchor" />
+
+</details>
+
 [portfolio]: https://nchormichael-porfolio.onrender.com
 [linkedin]: https://www.linkedin.com/in/nchormichael
 [whatsapp]: https://wa.link/hrbsrg
