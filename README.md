@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="michaelnchor | WhatsApp" width="30px" src="https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000" />][whatsapp]
 
+<br />
+
 ## Languages and Tools
 
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" />
