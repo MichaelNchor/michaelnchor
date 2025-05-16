@@ -8,6 +8,8 @@
   <a href="mailto=michaelnchoradingo@gmail.com" rel="nofollow">Email</a>
 </p>
 
+<br />
+
 - 🧑‍💻 You can find my projects here [portfolio]
 - 🔭 I’m currently working on projects at Hubtel.com
 - 🌱 I’m currently learning Flutter
