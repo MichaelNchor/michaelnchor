@@ -68,7 +68,9 @@
 
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
 
-<hr />
+<br />
+<br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
