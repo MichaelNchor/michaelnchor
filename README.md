@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
----
+--- 
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/michaelnchor">
