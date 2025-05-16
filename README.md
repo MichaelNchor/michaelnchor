@@ -4,7 +4,7 @@
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/nchormichael" rel="nofollow">LinkedIn</a> - 
   <a href="https://nchormichael-porfolio.onrender.com" rel="nofollow">Portfolio</a> -
-  <a href="mailto=michaelnchoradingo@gmail.com" rel="nofollow">Email</a>
+  <a href="mailto:michaelnchoradingo@gmail.com" rel="nofollow">Email</a>
 </p>
 
 <br />
