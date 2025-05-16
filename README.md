@@ -65,13 +65,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
---- 
-
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/michaelnchor">
-   <img height="155em" src="https://raw.githubusercontent.com/michaelnchor/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Michael's GitHub Stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/michaelnchor/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Michael's GitHub Stats" />
-<br>
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
