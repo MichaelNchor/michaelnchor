@@ -1,7 +1,6 @@
-### Hi, Michael here 👋
+<h1 align="center"> Hi there, <a href="https://www.linkedin.com/in/nchormichael/">Michael</a> here 👋</h1>
 
- <img align="right" alt="GIF" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" width="480" height="260px" />
-
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif" width="480" height="260px" />
 
 Here are some ideas to get you started:
 
@@ -67,6 +66,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 ---
+
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/michaelnchor">
+   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Michael's GitHub Stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Michael's GitHub Stats" />
+<br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
