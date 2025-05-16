@@ -1,4 +1,4 @@
-### Hi there, I'm Michael 👋
+### Hi there, Michael here 👋
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47tokhvm4bjpjiyavd0ax08ot042hbaw7l1uwworn5&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime
+
+## Socials
+
+[<img align="left" alt="michaelnchor | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" />][linkedin]
+
+
 
 [portfolio]: https://nchormichael-porfolio.onrender.com
 [linkedin]: https://www.linkedin.com/in/nchormichael
