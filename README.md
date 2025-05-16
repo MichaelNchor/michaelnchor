@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 
+<img align="left" alt="Dotnet" width="30px" src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" />
+
 <img align="left" alt="C#" width="30px" src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" />
 
 <img align="left" alt="Azure Devops" width="30px" src="https://img.icons8.com/?size=100&id=S4wbdK79E23a&format=png&color=000000" />
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="30px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
 
 <img align="left" alt="Tailwind" width="30px" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" />
-
-<img align="left" alt="Dotnet" width="30px" src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" />
 
 <img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 
