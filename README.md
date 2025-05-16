@@ -71,8 +71,6 @@ Here are some ideas to get you started:
 
 </details>
 
-<br />
-
 <details>
   <summary>:zap: Most Used Languages</summary>
 
