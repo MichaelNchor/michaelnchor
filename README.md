@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael 👋
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif?cid=ecf05e47mg36h2gol2ssomuofrvzd09jezeyi0spqsxszhv9&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47tokhvm4bjpjiyavd0ax08ot042hbaw7l1uwworn5&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 
 Here are some ideas to get you started:
