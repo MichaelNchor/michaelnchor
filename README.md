@@ -69,7 +69,7 @@
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
 
 <br />
-<br />
+<hr />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -81,7 +81,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Michael's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelnchor" />
+  <img align="left" alt="Michael's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelnchor" />
 
 </details>
 
