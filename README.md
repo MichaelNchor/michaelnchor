@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [portfolio]: https://nchormichael-porfolio.onrender.com
 [linkedin]: https://www.linkedin.com/in/nchormichael
-[whatsapp]: https://wa.link/uwrb6w
+[whatsapp]: https://wa.link/hrbsrg
