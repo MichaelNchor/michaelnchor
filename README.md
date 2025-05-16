@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="michaelnchor | LinkedIn" width="30px" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" />][linkedin]
 
-[<img align="left" alt="michaelnchor | WhatsApp" width="30px" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" />][whatsapp]
+[<img align="left" alt="michaelnchor | WhatsApp" width="30px" src="https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000" />][whatsapp]
 
 [portfolio]: https://nchormichael-porfolio.onrender.com
 [linkedin]: https://www.linkedin.com/in/nchormichael
