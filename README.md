@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="SQL Server" width="30px" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
 
+<img align="left" alt="Express Js" width="30px" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" />
+
 <img align="left" alt="Rider" width="30px" src="https://img.icons8.com/?size=100&id=UE01mCLFBOl4&format=png&color=000000" />
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />
@@ -50,9 +52,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
 
-<img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
-
-<img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
 
 [portfolio]: https://nchormichael-porfolio.onrender.com
 [linkedin]: https://www.linkedin.com/in/nchormichael
