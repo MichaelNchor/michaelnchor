@@ -13,7 +13,7 @@
 
 - 🧑‍💻 You can find few of my projects here [portfolio]
 - 🔭 I’m currently working on projects at Hubtel.com
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [linkedin]
